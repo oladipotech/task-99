@@ -139,7 +139,7 @@ p {
         width: 100%;
     }
     body {
-    background-image: url(/redister/bg-intro-mobile.png);
+    background-image: url(/bg-intro-mobile.png);
     background-color: hsl(0, 100%, 74%);
     color: white;
     }
